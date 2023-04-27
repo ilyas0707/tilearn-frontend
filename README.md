@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+# Tilearn
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Tilearn is a revolutionary app designed to function as an MALL (Mobile-Assisted Language Learning) platform for individuals looking to learn Kyrgyz, a Turkic language spoken primarily in Kyrgyzstan. The app provides a comprehensive language learning experience, featuring a variety of interactive tools and resources, including grammar lessons, vocabulary exercises, and conversation simulations.
 
-## Available Scripts
+One of the app's standout features is its adaptive learning algorithm, which tailors the learning experience to each user's individual strengths and weaknesses. This personalized approach allows users to progress at their own pace and focus on areas where they need the most improvement.
 
-In the project directory, you can run:
+Tilearn also offers a social learning experience, allowing users to connect with other learners of the Kyrgyz language, share resources, and practice their language skills through group chats and discussion forums.
 
-### `npm start`
+Overall, Tilearn provides an engaging, effective, and accessible way for anyone interested in learning Kyrgyz to do so conveniently and affordably from their mobile devices.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Screenshots
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![image](https://user-images.githubusercontent.com/48711796/235007485-715459b1-9f31-4e71-bb6b-599feb4f28b2.png)
+![image](https://user-images.githubusercontent.com/48711796/235007530-12952240-f187-4502-92a2-251efcbfcb30.png)
+![image](https://user-images.githubusercontent.com/48711796/235007562-05d6ad98-8949-41e5-bb5e-a36cbe9465ad.png)
+![image](https://user-images.githubusercontent.com/48711796/235007642-5b669b54-199e-4c40-b937-ac03f9582b89.png)
+![image](https://user-images.githubusercontent.com/48711796/235007695-321b10cd-e09a-475e-b609-61da962964f2.png)
+![image](https://user-images.githubusercontent.com/48711796/235007771-53b3d9dd-78ce-4393-9ccd-ff48c99338df.png)
+![image](https://user-images.githubusercontent.com/48711796/235007834-a50c77c4-cd20-4c1b-895f-3f8e155f73a3.png)
+![image](https://user-images.githubusercontent.com/48711796/235007895-84907427-f4cc-41a1-8fef-31f38e97a9ff.png)
+![image](https://user-images.githubusercontent.com/48711796/235007914-f0796ae3-7157-4fde-8ee3-afa51d12122b.png)
+![image](https://user-images.githubusercontent.com/48711796/235007938-aba791c5-95f0-4ace-a4a5-2fd2d884213d.png)
+![image](https://user-images.githubusercontent.com/48711796/235007968-03dd8bf2-2311-4fcf-ba5d-a5d9e4b942fa.png)
+![image](https://user-images.githubusercontent.com/48711796/235007995-cd02b956-c9af-4f5e-af4a-acd68b139c74.png)
+![image](https://user-images.githubusercontent.com/48711796/235008027-48bd037b-0d83-4f57-8cb6-09533d48b175.png)
+![image](https://user-images.githubusercontent.com/48711796/235008058-09bd83db-42fd-4c0c-b708-a694e4ffd664.png)
+![image](https://user-images.githubusercontent.com/48711796/235008182-691202e7-c160-409c-a1c9-6b069b642fa2.png)
